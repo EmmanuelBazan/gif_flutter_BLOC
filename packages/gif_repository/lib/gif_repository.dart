@@ -1,4 +1,4 @@
 library gif_repository;
 
-/// A Calculator.
-class GifRepository {}
+export 'src/gif_repository.dart';
+export 'src/models/model.dart';
