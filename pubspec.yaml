@@ -29,6 +29,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   very_good_cli: ^0.4.3
+  flutter_bloc: ^8.1.1
+  bloc: ^8.1.0
+  gif_repository:
+    path: packages/gif_repository
 
 dev_dependencies:
   flutter_test:
